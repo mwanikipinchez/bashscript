@@ -13,4 +13,8 @@ ls -l
 echo "The hostname is: "
 hostname
 
+echo "Lets ping my router"
+
+ping 192.168.100.1
+
 echo "thank you"
